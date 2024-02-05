@@ -1,0 +1,198 @@
+.div1{
+    position: relative;
+    height: 165px;
+    width: 733px;
+    background-color: #343a40;
+    margin-left: 400px;
+    margin-top: 95px;
+    
+}
+.start{
+    display: block;
+}
+.h1{
+    position: absolute;
+    margin-left: 230px;
+    margin-top:53px;
+    font-size: 45px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    
+    height: 60px;
+    width: 250px;
+    margin-left: 640px;
+    margin-top: 130px;
+    background-color: #343a40;
+        border-radius: 5px;
+}
+.btn1{
+    margin-top: 20px;
+    height: 60px;
+    width: 250px;
+    margin-left: 640px;
+    background-color: #343a40;
+    border-radius: 5px;
+}
+.p1, .p2{
+   color: white;
+   font-size: 30px;
+   font-weight: 600;
+   font-family: 'Roboto', sans-serif;
+}
+.sual-div{
+    width: 1100px;
+    height: 260px;
+    background-color: #343a40;
+    margin-left: 220px;
+    margin-top: 110px;
+    border-radius: 5px;
+}
+.sual-div{
+    position: relative;
+}
+.basliq{
+    position: absolute;
+    color: white;
+    margin-top: 80px;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 450px;
+}
+.sual{
+    position: absolute;
+color: white;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+margin-left: 450px;
+margin-top:150px ;
+}
+
+.cavab-div1{
+    display: flex;
+    gap: 50px;
+}
+.cavab-btn1{
+    margin-top: 70px;
+    margin-left: 220px;
+    width: 300px;
+    height: 50px;
+    background-color: #343a40;
+border-radius: 3px;
+}
+.cavab-btn2{
+    margin-top: 70px;
+    width: 300px;
+    height: 50px;
+    background-color: #343a40;
+border-radius: 3px;
+}
+.cavab-btn3{
+    margin-top: 70px;
+    width: 300px;
+    height: 50px;
+    background-color: #343a40;
+border-radius: 3px;
+}
+span{
+    color: white;
+    font-family:'Roboto', sans-serif ;
+  
+    font-size: 30px;
+}
+
+.cavab-div2{
+    display: flex;
+    gap: 50px; 
+}
+.cavab1{
+    position: relative;
+     border: 1px solid rgb(154, 148, 148);
+    margin-left: 220px;
+    width: 300px;
+    height: 50px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.cavab2{
+    position: relative;
+    border: 1px solid rgb(154, 148, 148);
+    box-sizing: border-box;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;   
+    font-family: 'Roboto', sans-serif; 
+    border-radius: 3px;
+    
+}
+.cavab3{
+    position: relative;
+    border: 1px solid rgb(154, 148, 148);
+    border-radius: 3px;
+    width: 300px;
+    height: 50px;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.span1, .span2, .span3{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+    margin-left:30px ;
+   margin-top: 10px;
+
+}
+.sual-bolmesi{
+    display: none;
+}
+.finish{
+    display: none;
+}
+.restart{
+    height: 60px;
+    width: 250px;
+    margin-left: 640px;
+    margin-top: 130px;
+    background-color:rgb(57, 56, 56);
+    border-radius: 5px;
+}
+.progres-bar{
+    margin-left: 210px;
+    
+    margin-top: 30px;
+    height: 15px;
+    width:1100px ;
+    background-color: #efefef;
+    border-radius: 5px;
+}
+.indicator{
+    background-color: rgb(36, 168, 36);
+    height: 100%;
+    width: 0%;
+    border-radius: 5px;
+    transition: 1s;
+}
+.netice{
+    position: absolute;
+    margin-left: 230px;
+    margin-top:53px;
+    font-size: 45px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn3{
+    margin-top: 20px;
+    height: 60px;
+    width: 250px;
+    margin-left: 640px;
+    background-color: #343a40;
+    border-radius: 5px;
+}
